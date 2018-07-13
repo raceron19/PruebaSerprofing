@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PruebaSerprofing", "PruebaSerprofing\PruebaSerprofing.csproj", "{EFFDE07E-3C07-4FDE-BAE4-8B89D0B813DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EFFDE07E-3C07-4FDE-BAE4-8B89D0B813DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFFDE07E-3C07-4FDE-BAE4-8B89D0B813DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFFDE07E-3C07-4FDE-BAE4-8B89D0B813DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFFDE07E-3C07-4FDE-BAE4-8B89D0B813DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {977DF020-2884-4C50-9927-65CA5190190B}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,11 @@
+C:\Users\Rodrigo\source\repos\PruebaSerprofing\PruebaSerprofing\bin\Debug\netcoreapp2.0\PruebaSerprofing.deps.json
+C:\Users\Rodrigo\source\repos\PruebaSerprofing\PruebaSerprofing\bin\Debug\netcoreapp2.0\PruebaSerprofing.runtimeconfig.json
+C:\Users\Rodrigo\source\repos\PruebaSerprofing\PruebaSerprofing\bin\Debug\netcoreapp2.0\PruebaSerprofing.runtimeconfig.dev.json
+C:\Users\Rodrigo\source\repos\PruebaSerprofing\PruebaSerprofing\bin\Debug\netcoreapp2.0\PruebaSerprofing.dll
+C:\Users\Rodrigo\source\repos\PruebaSerprofing\PruebaSerprofing\obj\Debug\netcoreapp2.0\PruebaSerprofing.csprojAssemblyReference.cache
+C:\Users\Rodrigo\source\repos\PruebaSerprofing\PruebaSerprofing\obj\Debug\netcoreapp2.0\PruebaSerprofing.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo\source\repos\PruebaSerprofing\PruebaSerprofing\obj\Debug\netcoreapp2.0\PruebaSerprofing.AssemblyInfoInputs.cache
+C:\Users\Rodrigo\source\repos\PruebaSerprofing\PruebaSerprofing\obj\Debug\netcoreapp2.0\PruebaSerprofing.AssemblyInfo.cs
+C:\Users\Rodrigo\source\repos\PruebaSerprofing\PruebaSerprofing\bin\Debug\netcoreapp2.0\PruebaSerprofing.pdb
+C:\Users\Rodrigo\source\repos\PruebaSerprofing\PruebaSerprofing\obj\Debug\netcoreapp2.0\PruebaSerprofing.dll
+C:\Users\Rodrigo\source\repos\PruebaSerprofing\PruebaSerprofing\obj\Debug\netcoreapp2.0\PruebaSerprofing.pdb

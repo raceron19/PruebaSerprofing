@@ -1,0 +1,4 @@
+Archivo serprofing.sql tiene el script de la generacion de la base de datos.
+
+Archivo script.sql tiene el script de la base creada mas un par de registros de pruebas, 
+ocupados para realizar la prueba.

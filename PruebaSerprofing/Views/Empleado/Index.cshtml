@@ -1,0 +1,48 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+}
+
+<br />
+<a href="@Url.Action("Create","Empleado")"> Agregar Empleado</a>
+<br />
+<br />
+<table class="table table-bordered table-striped">
+    <thead class="thead-dark">
+        <tr>
+            <th>Nombre</th>
+            <th>DUI</th>
+            <th>Telefono</th>
+            <th>Fecha Ingreso</th>
+            <th>Estado</th>
+            <th>Oficina</th>
+            <th>Gestion</th>
+        </tr>
+    </thead>
+   
+    @for (int i = 0; i < Model.Rows.Count; i++)
+    {
+    <tr>
+
+        <td>@Model.Rows[i][1]</td>
+        <td>@Model.Rows[i][2]</td>
+        <td>@Model.Rows[i][4]</td>
+        <td>@Model.Rows[i][5]</td>
+        @if (@Model.Rows[i][6] == 0)
+        {
+            <td>Inactivo</td>
+        }
+        else
+        {
+            <td>Activo</td>
+        }
+        <td>@Model.Rows[i][8]</td>
+        <td>
+            <a class="btn btn-warning" href="@Url.Action("Edit","Empleado", new {@id=@Model.Rows[i][0]})">Edit</a> |
+
+            <a class="btn btn-danger" href="@Url.Action("Delete","Empleado", new {@id=@Model.Rows[i][0]})">Delete</a>
+        </td>
+    </tr>
+
+    }
+</table>
